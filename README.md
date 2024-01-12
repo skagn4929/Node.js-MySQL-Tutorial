@@ -1,1 +1,1 @@
-# Node.js-MySQL-test
+# Node.js-MySQL-Tutorial
