@@ -1,7 +1,7 @@
 # Node.js-MySQL-Tutorial
 - [Node.js & MySQL Tutorial](https://opentutorials.org/module/3560)
 
-해당 수업을 통해 Node.js와 MySQL을 연동하여 사용하는 방법에 대해 실습한 내용입니다.
+해당 강의를 통해 Node.js와 MySQL을 연동하여 사용하는 방법에 대해 실습한 내용입니다.
 
 ## 1. 실습 준비
 
